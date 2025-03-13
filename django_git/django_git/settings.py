@@ -137,6 +137,8 @@ REST_FRAMEWORK = {
 
 }
 
+
+
 SPECTACULAR_SETTINGS = {
     'TITLE': 'Your Project API',
     'DESCRIPTION': 'Your project description',
